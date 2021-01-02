@@ -6,4 +6,4 @@ causas sociais, animais e ambientais. Exemplos desses projetos são o Dipjar e o
 
 
 
-<img src="TCC-Codigos/PROJETO PRONTO.PNG" width="100">
+<img src="TCC-Codigos/PROJETO PRONTO.PNG" width="300" heigth="470">
