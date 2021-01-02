@@ -5,8 +5,7 @@ causas sociais, animais e ambientais. Exemplos desses projetos são o Dipjar e o
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/75312838/103468280-39e7d700-4d36-11eb-90fc-1b968b94aad9.gif)
 
-Para que o projeto seja capaz de realizar o que se propõe, conta com diferentes sistemas para tarefaz específicas. Como motrado na imagem acima, os sistemas são: o sistema de navegação, responsável por ser a IHM; o sistema de recebimento não monetário, responsável por receber donativos como roupas, alimentos não perecíveis entr outros; o sistema de validação monetária, que recebe os valores financeiros da moeda nacional e o sistema dispensador de brindes, responável por retornar algo para o doador. Abaixo é mostrado parte
-do funcionamento do projeto pelo GIF.
+Para que o projeto seja capaz de realizar o que se propõe, conta com diferentes sistemas para tarefaz específicas. Como motrado no GIF acima, os sistemas são: o sistema de navegação, responsável por ser a IHM; o sistema de recebimento não monetário, responsável por receber donativos como roupas, alimentos não perecíveis entr outros; o sistema de validação monetária, que recebe os valores financeiros da moeda nacional e o sistema dispensador de brindes, responável por retornar algo para o doador.
 
 
 
