@@ -4,5 +4,5 @@ O módulo arrecadador é um trabalho inspirado nos projetos de captação de rec
 causas sociais, animais e ambientais. Exemplos desses projetos são o Dipjar, GoodBox, e o Partake the Bread. 
 
 <p align="canter">
-	<img width= "470" height= "300"> scr="PROJETO_PRONTO.png">
+	<img width= "470" height= "300"> TCC-Codigos="PROJETO_PRONTO.png">
 </p>
