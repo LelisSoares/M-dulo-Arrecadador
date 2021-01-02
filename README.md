@@ -6,5 +6,5 @@ causas sociais, animais e ambientais. Exemplos desses projetos são o Dipjar e o
 
 
 <p align="canter">
-	<img width= "470" height= "300"> ![PROJETO PRONTO VISÃO GERAL](https://user-images.githubusercontent.com/75312838/103467754-ee7efa00-4d30-11eb-9534-14e01671871d.png)
+	<img width= "470" height= "300" ![PROJETO PRONTO VISÃO GERAL](https://user-images.githubusercontent.com/75312838/103467754-ee7efa00-4d30-11eb-9534-14e01671871d.png)>
 </p>
