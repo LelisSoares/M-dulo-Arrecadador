@@ -35,6 +35,9 @@ Para que o sistema de recebimento não-monetário funcione adequadamente ele dev
 
 Composta por um dispositivo dispensador, amplamente utilizado em máquinas de vendas de refrigerantes, lanches e conveniências; um motor de passo NEMA17, escolhido pelo seu torque e precisão, responsável por realizar o trabalho de movimentação dos itens; uma mola de movimentação; um driver A4988, sendo a interface de controle entre a plataforma controladora e o motor de passo; dois sensores óticos difusos responsáveis pelo reconhecimento dos itens dispensados e, por último, o Arduino Mega como sistema embarcado. A Figura 20 mostra o diagrama esquemático do sistema.
 
+![Sistema dispensador de brindes](https://user-images.githubusercontent.com/75312838/103486749-df568580-4dde-11eb-98ef-df1b67a531e4.jpg)
+
+
 
 
 
