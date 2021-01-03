@@ -41,6 +41,18 @@ Composta por um dispositivo dispensador, amplamente utilizado em máquinas de ve
 
 Pensado para o recebimento da maioria dos valores monetários da moeda nacional, esse sistema de validação monetária conta com um validador de cédulas, um validador de moedas, circuitos de comunicação, um relé de alimentação e um sistema embarcado responsável pela leitura de sinais e tomada de decisão, sendo este o Arduino Mega; A Figura mostra o circuito esquemático deste sistema.
 
+![sistema de validação monetária](https://user-images.githubusercontent.com/75312838/103486813-6146ae80-4ddf-11eb-9442-796f1de3883f.jpg)
+
+Para que fosse possível realizar a leitura dos sinais dos componentes de validação monetária, foi necessário previamente conhecer o comportamento dos mesmos, bem como posteriormente desenvolver um circuito de interface entre os validadores e a placa microcontrolada, Arduino Mega.
+
+O validador de cédula funciona a partir da identificação da cédula inserida pela fenda de abertura frontal, onde passa pelos sensores responsáveis pela validação da mesma, contudo uma vez identificada, o BV20 envia um número de pulsos equivalentes ao valor da nota, ou seja, 2 pulsos para a cédula de R$ 2,00, 5 pulsos para cédula de R$ 5,00 e assim sucessivamente até 100 pulsos para a cédula de R$ 100,00 (INNOVATIVE TECHNOLOGY, 2018, p. 36).
+
+O validador de moedas MEC26 apresenta um comportamento semelhante ao BV20. Sua saída apresenta um número de pulsos distinto para cada valor de moeda, programados previamente pelo operador, e para o projeto as moedas de R$ 1,00, 50, 25 e 10 centavos apresentam respectivamente 1, 6, 3 e 9 pulsos (VINCE, 2017). 
+
+Uma vez enviados os dados referentes aos valores monetários lidos, se torna necessário o recebimento e a interpretação deste sinal pela plataforma microcontrolada. A priori, para realizar a leitura do sinal do BV20, bem como do MEC26, foi utilizada uma entrada digital do Arduino com resistor de pull-up, porém este método se mostrou falho em muitas medições, pois, os validadores apresentaram um sinal de tensão de aproximadamente 1,2V para nível alto e 0V para nível baixo, estando abaixo do nível lógico do Arduino. Para converter o sinal para o mesmo nível lógico do Arduino foi utilizado um drive intermediário para comunicação, sendo este um comparador de tensão simples. A Figura 22 representa o circuito utilizado.
+
+
+
 
 
 
