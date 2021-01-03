@@ -51,6 +51,17 @@ O validador de moedas MEC26 apresenta um comportamento semelhante ao BV20. Sua s
 
 Uma vez enviados os dados referentes aos valores monetários lidos, se torna necessário o recebimento e a interpretação deste sinal pela plataforma microcontrolada. A priori, para realizar a leitura do sinal do BV20, bem como do MEC26, foi utilizada uma entrada digital do Arduino com resistor de pull-up, porém este método se mostrou falho em muitas medições, pois, os validadores apresentaram um sinal de tensão de aproximadamente 1,2V para nível alto e 0V para nível baixo, estando abaixo do nível lógico do Arduino. Para converter o sinal para o mesmo nível lógico do Arduino foi utilizado um drive intermediário para comunicação, sendo este um comparador de tensão simples. A Figura 22 representa o circuito utilizado.
 
+![circuito de integração dos validadores](https://user-images.githubusercontent.com/75312838/103486867-d6b27f00-4ddf-11eb-9803-2d0a6fde6d09.jpg)
+
+# Hardware de integração entre a ESP-32 e o Arduino Mega 2560
+
+O circuito de integração permite que todas as informações trocadas sejam transmitidas de forma segura e precisa, funciona como um elo, permitindo que todos os sistemas se comuniquem para que as funções sejam executadas de forma satisfatória.
+
+O circuito trata-se de um conversor digital bidirecional de 5V para 3,3V e 3,3V para 5V. Sua utilização é necessária para que haja um correto nivelamento de tensão na comunicação entre a ESP-32 e o Arduino Mega 2560, uma vez que as saídas digitais da ESP-32 apresentam um nível de tensão de 3,3V e o Arduino mega uma nível de 5V.
+
+
+
+
 
 
 
