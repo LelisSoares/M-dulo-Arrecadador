@@ -37,6 +37,13 @@ Composta por um dispositivo dispensador, amplamente utilizado em máquinas de ve
 
 ![Sistema dispensador de brindes](https://user-images.githubusercontent.com/75312838/103486749-df568580-4dde-11eb-98ef-df1b67a531e4.jpg)
 
+# Sistema de validação monetária
+
+Pensado para o recebimento da maioria dos valores monetários da moeda nacional, esse sistema de validação monetária conta com um validador de cédulas, um validador de moedas, circuitos de comunicação, um relé de alimentação e um sistema embarcado responsável pela leitura de sinais e tomada de decisão, sendo este o Arduino Mega; A Figura mostra o circuito esquemático deste sistema.
+
+
+
+
 
 
 
