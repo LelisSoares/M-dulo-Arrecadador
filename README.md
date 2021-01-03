@@ -31,6 +31,12 @@ Para que o sistema de recebimento não-monetário funcione adequadamente ele dev
 
 ![sistema de recebimento nãp-monetário](https://user-images.githubusercontent.com/75312838/103486622-ec26a980-4ddd-11eb-892e-3ca1ce94cde5.jpg)
 
+# Sistema dispensador de brindes
+
+Composta por um dispositivo dispensador, amplamente utilizado em máquinas de vendas de refrigerantes, lanches e conveniências; um motor de passo NEMA17, escolhido pelo seu torque e precisão, responsável por realizar o trabalho de movimentação dos itens; uma mola de movimentação; um driver A4988, sendo a interface de controle entre a plataforma controladora e o motor de passo; dois sensores óticos difusos responsáveis pelo reconhecimento dos itens dispensados e, por último, o Arduino Mega como sistema embarcado. A Figura 20 mostra o diagrama esquemático do sistema.
+
+
+
 
 
 
