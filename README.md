@@ -26,6 +26,7 @@ A montagem utilizada para o controle VGA foi a montagem de 3 bits, sendo esta, a
 # Sistema de recebimento não-monetário
 
 O sistema de recebimento não-monetário pode ser descrito como um armazenador automático. Consiste de um armazenador físico, semelhante a um baú, com duas rampas frontais onde os itens são depositados, nas Figuras pode ser visto seu esquema elétrico e sua constituição, respectivamente.
+
 Para que o sistema de recebimento não-monetário funcione adequadamente ele deve abrir a rampa correspondente ao tipo de doação solicitada, realizar a contagem dos itens depositados e fechar as rampas quando for finalizado. Para tal, o sistema conta com 4 servomotores como atuadores, sendo dois, de maior torque, para a abertura e fechamento das rampas e 2, de menor torque, para o travamento; 4 sensores óticos, sendo 2 para realizar a contagem dos itens doados e 2 para verificação de segurança; 2 sensores indutivos, responsáveis pela sinalização do fim de curso das rampas para o controlador; circuito de alimentação e o Arduino Mega como controlador.   
 
 ![sistema de recebimento nãp-monetário](https://user-images.githubusercontent.com/75312838/103486622-ec26a980-4ddd-11eb-892e-3ca1ce94cde5.jpg)
