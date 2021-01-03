@@ -59,6 +59,9 @@ O circuito de integração permite que todas as informações trocadas sejam tra
 
 O circuito trata-se de um conversor digital bidirecional de 5V para 3,3V e 3,3V para 5V. Sua utilização é necessária para que haja um correto nivelamento de tensão na comunicação entre a ESP-32 e o Arduino Mega 2560, uma vez que as saídas digitais da ESP-32 apresentam um nível de tensão de 3,3V e o Arduino mega uma nível de 5V.
 
+![hardware de integração entre a ESP-32 e o Arduino Mega 2560](https://user-images.githubusercontent.com/75312838/103486957-5ccec580-4de0-11eb-9f26-0f020b7e8239.jpg)
+
+
 
 
 
