@@ -19,7 +19,6 @@ Dentre as ferramentas de controle VGA acessíveis na internet cabe aqui um desta
 
 A montagem utilizada para o controle VGA foi a montagem de 3 bits, sendo esta, a ligação mais simples que a biblioteca oferece e suficiente para exibição das informações desejadas. Por se tratar do método mais simples se utiliza de apenas um cabo VGA com uma saída macho e a própria ESP-32. As Figuras mostram os detalhes da conexão entre a ESP-32 e o monitor LCD, através de um cabo VGA, bem como do circuito do sistema.
 
-![conexão VGA](https://user-images.githubusercontent.com/75312838/103486486-0ad87080-4ddd-11eb-831c-be0eee93bcf8.jpg)
-
 ![sistema de navegação](https://user-images.githubusercontent.com/75312838/103486359-02336a80-4ddc-11eb-895b-620597ddd540.jpg)
+![conexão VGA](https://user-images.githubusercontent.com/75312838/103486486-0ad87080-4ddd-11eb-831c-be0eee93bcf8.jpg)
 
