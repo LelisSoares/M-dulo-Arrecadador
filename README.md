@@ -15,3 +15,5 @@ Para que o projeto seja capaz de realizar o que se propõe, conta com diferentes
 
 O sistema de navegação tem por finalidade servir de interface entre o usuário e a máquina, permitindo que o usuário acesse as funções do projeto, como doação de itens não-monetários, doação monetária e recebimento de brindes. O sistema é composto por um monitor LCD, quatro botões normalmente abertos (NA) e a placa ESP-32. A Figura 16 mostra o circuito do sistema.
 
+![sistema de navegação](https://user-images.githubusercontent.com/75312838/103486359-02336a80-4ddc-11eb-895b-620597ddd540.jpg)
+
