@@ -9,6 +9,7 @@ Para que o projeto seja capaz de realizar o que se propõe, conta com diferentes
 
 # Esquemático geral do trabalho
 
+![Diagrama da integração do projeto 3](https://user-images.githubusercontent.com/75312838/103486099-fa72c680-4dd9-11eb-9f5d-7be598e1fbc3.png)
 
 > # Sistemas do projeto
 
