@@ -11,7 +11,7 @@ Para que o projeto seja capaz de realizar o que se propõe, conta com diferentes
 
 ![Diagrama da integração do projeto 3](https://user-images.githubusercontent.com/75312838/103486239-2b073000-4ddb-11eb-97f1-232428b81571.png)
 
-# Sistemas de navegação
+# Sistema de navegação
 
 O sistema de navegação tem por finalidade servir de interface entre o usuário e a máquina, permitindo que o usuário acesse as funções do projeto, como doação de itens não-monetários, doação monetária e recebimento de brindes. O sistema é composto por um monitor LCD, quatro botões normalmente abertos (NA) e a placa ESP-32.
 
@@ -21,5 +21,11 @@ A montagem utilizada para o controle VGA foi a montagem de 3 bits, sendo esta, a
 
 ![conexão VGA](https://user-images.githubusercontent.com/75312838/103486486-0ad87080-4ddd-11eb-831c-be0eee93bcf8.jpg)
 ![sistema de navegação](https://user-images.githubusercontent.com/75312838/103486359-02336a80-4ddc-11eb-895b-620597ddd540.jpg)
+
+# Sistema de recebimento não-monetário
+
+O sistema de recebimento não-monetário pode ser descrito como um armazenador automático. Consiste de um armazenador físico, semelhante a um baú, com duas rampas frontais onde os itens são depositados, nas Figuras pode ser visto seu esquema elétrico e sua constituição, respectivamente.
+
+
 
 
