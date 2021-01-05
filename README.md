@@ -70,7 +70,7 @@ O circuito trata-se de um conversor digital bidirecional de 5V para 3,3V e 3,3V 
 
 # Modelos 3D para Impressão
 
-**Dispositivo dispensador:**
+**Dispositivo dispensador:** https://www.thingiverse.com/thing:4711265
 
 **Suporte para sensor indutivo:** 
 
