@@ -65,6 +65,8 @@ O circuito trata-se de um conversor digital bidirecional de 5V para 3,3V e 3,3V 
 
 **Funcionamento do Módulo Arrecadador:** https://youtu.be/Nl3cb6hnQOI
 
+**Funcionamento individual do sistema dispensador:** https://youtu.be/FY2r8QY4RQI
+
 
 # Modelos 3D para Impressão
 
