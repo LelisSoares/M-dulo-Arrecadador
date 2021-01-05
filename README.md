@@ -66,9 +66,10 @@ O circuito trata-se de um conversor digital bidirecional de 5V para 3,3V e 3,3V 
 **Funcionamento do Módulo Arrecadador:** https://youtu.be/Nl3cb6hnQOI
 
 
-# Modelo 3D para Impressão
+# Modelos 3D para Impressão
 
 **Dispositivo dispensador:**
+
 **Suporte para sensor indutivo:** 
 
 
