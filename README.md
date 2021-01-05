@@ -72,7 +72,9 @@ O circuito trata-se de um conversor digital bidirecional de 5V para 3,3V e 3,3V 
 
 **Dispositivo dispensador:** https://www.thingiverse.com/thing:4711265
 
-**Suporte para sensor indutivo:** 
+**Suporte para sensor indutivo:** https://www.thingiverse.com/thing:4113930
+
+**Peças do sistema de recebimento não-monetário:** 
 
 
 
