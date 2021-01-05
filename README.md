@@ -63,7 +63,7 @@ O circuito trata-se de um conversor digital bidirecional de 5V para 3,3V e 3,3V 
 
 # Vídeos do Módulo Arrecadador
 
-https://youtu.be/Qt9de60d_bk
+*Funcionamento do Módulo Arrecadador:* https://youtu.be/Nl3cb6hnQOI
 
 
 
