@@ -61,6 +61,10 @@ O circuito trata-se de um conversor digital bidirecional de 5V para 3,3V e 3,3V 
 
 ![hardware de integração entre a ESP-32 e o Arduino Mega 2560](https://user-images.githubusercontent.com/75312838/103486957-5ccec580-4de0-11eb-9f26-0f020b7e8239.jpg)
 
+# Vídeos do Módulo Arrecadador
+
+https://youtu.be/Qt9de60d_bk
+
 
 
 
